@@ -10,6 +10,7 @@
     "deploy": "next build && wrangler pages deploy .next"
   },
   "dependencies": {
+    "@cloudflare/next-on-pages": "^1.13.13",
     "eslint": "8.36.0",
     "eslint-config-next": "13.2.4",
     "next": "13.2.4",
