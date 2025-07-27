@@ -1,0 +1,16 @@
+{
+  "videos": {
+    "video1": {
+      "title": "Crea videos que exploten tu canal con AnalizaTube",
+      "description": "Descubre ideas potentes de videos que pueden crecer tu canal y negocio."
+    },
+    "video2": {
+      "title": "Cómo monetizar tu canal de YouTube en 2024",
+      "description": "Estrategias probadas para generar ingresos con tu contenido."
+    }
+  },
+  "default": {
+    "title": "Acceso a guías exclusivas",
+    "description": ""
+  }
+} 

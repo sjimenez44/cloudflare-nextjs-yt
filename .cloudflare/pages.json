@@ -1,0 +1,16 @@
+{
+  "build": {
+    "command": "npm run build",
+    "output": ".next"
+  },
+  "routes": [
+    {
+      "pattern": "/_next/static/*",
+      "serve": "/_next/static/*"
+    },
+    {
+      "pattern": "/*",
+      "serve": "/index.html"
+    }
+  ]
+} 
